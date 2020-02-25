@@ -1,0 +1,39 @@
+.box {
+    margin-top: 100px;
+}
+.cardInfo {}
+.image_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+    background: #48cfad;
+    opacity: 0.7;
+}
+
+.view_details:hover {
+    background: #fff;
+    color: #48cfad;
+    cursor: pointer;
+    opacity: 10;
+}
+
+.view_details {
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    margin-left: -85px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0;
+    width: 172px;
+    opacity: 8;
+    -webkit-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
