@@ -1,0 +1,9 @@
+.toastModal {
+    /* float: right; */
+    background: none;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}

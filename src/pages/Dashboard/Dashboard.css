@@ -1,0 +1,31 @@
+.optionLists{
+    padding: 20px !important;
+}
+
+.heading{
+    text-align: center;
+}
+.glyphicon {
+    float: right;
+    margin: 10px;
+}
+
+.addButton {
+    float: right;
+}
+
+.addOption {
+    float: right;
+    margin-top: 10px;
+}
+
+.spinner {
+    text-align: center;
+}
+.option { 
+    float: left;
+} 
+
+.deleteOption {
+    float: right;
+}

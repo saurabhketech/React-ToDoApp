@@ -1,0 +1,55 @@
+// Register
+
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_REQUEST = "REGISTER_REQUEST";
+export const REGISTER_ERROR = "REGISTER_ERROR";
+
+
+// Login
+
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+
+
+//get pols
+export const GET_POLS_SUCCESS = "GET_POLS_SUCCESS";
+export const GET_POLS_ERROR = "GET_POLS_ERROR";
+export const GET_POLS_REQUEST = "GET_POLS_REQUEST";
+
+
+// update pol title 
+export const UPDATE_POLS_TITLE_SUCCESS = "UPDATE_POLS_TITLE_SUCCESS";
+export const UPDATE_POLS_TITLE_ERROR = "UPDATE_POLS_TITLE_ERROR";
+export const UPDATE_POLS_TITLE_REQUEST = "UPDATE_POLS_TITLE_REQUEST";
+
+// add pol request
+export const ADD_POLS_SUCCESS = "ADD_POLS_SUCCESS";
+export const ADD_POLS_ERROR = "ADD_POLS_ERROR";
+export const ADD_POLS_REQUEST = "ADD_POLS_REQUEST";
+
+// delete poll
+export const DELETE_POLS_SUCCESS = "DELETE_POLS_SUCCESS";
+export const DELETE_POLS_ERROR = "DELETE_POLS_ERROR";
+export const DELETE_POLS_REQUEST = "DELETE_POLS_REQUEST";
+
+// get users
+export const GET_USER_LIST_SUCCESS = "GET_USER_LIST_SUCCESS";
+export const GET_USER_LIST_ERROR = "GET_USER_LIST_ERROR";
+export const GET_USER_LIST_REQUEST = "GET_USER_LIST_REQUEST";
+
+// add options
+export const ADD_OPTION_SUCCESS = "ADD_OPTION_SUCCESS";
+export const ADD_OPTION_ERROR = "ADD_OPTION_ERROR";
+export const ADD_OPTION_REQUEST = "ADD_OPTION_REQUEST";
+
+// delete options
+export const DELETE_OPTION_SUCCESS = "DELETE_OPTION_SUCCESS";
+export const DELETE_OPTION_ERROR = "DELETE_OPTION_ERROR";
+export const DELETE_OPTION_REQUEST = "DELETE_OPTION_REQUEST";
+
+// do vote
+export const DO_VOTE_SUCCESS = "DO_VOTE_SUCCESS";
+export const DO_VOTE_ERROR = "DO_VOTE_ERROR";
+export const DO_VOTE_REQUEST = "DO_VOTE_REQUEST";
